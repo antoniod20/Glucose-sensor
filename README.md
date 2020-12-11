@@ -6,6 +6,6 @@ RICORDATEVI DI RENDERE PUBBLICO IL CIRCUITO SU TINKERCAD DALLE PROPRIETA' DELLO 
 https://www.tinkercad.com/things/eXlzChPjezF-smart-band/editel?sharecode=PreurGArTcGe9yu4meJwWmVdY4js9qdmHM9vmPa235s
 ### Antonio Calabrese -> 
 
-### Sara Mosca -> Smart band
+### Sara Mosca -> 
 
-### Jamiro Screti -> Smart band
+### Jamiro Screti -> 
