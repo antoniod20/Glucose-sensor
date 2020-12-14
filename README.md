@@ -8,4 +8,4 @@ https://www.tinkercad.com/things/eXlzChPjezF-smart-band/editel?sharecode=PreurGA
 
 ### Sara Mosca -> 
 
-### Jamiro Screti -> 
+### Jamiro Screti -> https://www.tinkercad.com/things/bNk2a58yYhd
