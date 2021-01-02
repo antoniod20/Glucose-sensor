@@ -1,9 +1,11 @@
 # Glucose-sensor
 RICORDATEVI DI RENDERE PUBBLICO IL CIRCUITO SU TINKERCAD DALLE PROPRIETA' DELLO STESSO!
 
+PRIMA DELL'ESAME LI DOBBIAMO RIAGGIORNARE PERCHE' DURANO SOLO 14 GIORNI!
+
 ## Link of the circuits:
 ### Antonio Donvito -> Smart band
-https://www.tinkercad.com/things/eXlzChPjezF-smart-band/editel?sharecode=PreurGArTcGe9yu4meJwWmVdY4js9qdmHM9vmPa235s
+https://www.tinkercad.com/things/eXlzChPjezF-smart-band/editel?sharecode=s9GQbLiRNW2ZCik-BF-uZNu74g3pXfTsdho4Yye3IZ0
 ### Antonio Calabrese -> 
 
 ### Sara Mosca -> 
