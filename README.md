@@ -5,7 +5,7 @@ PRIMA DELL'ESAME LI DOBBIAMO RIAGGIORNARE PERCHE' DURANO SOLO 14 GIORNI!
 
 ## Link of the circuits:
 ### Antonio Donvito -> Smart band
-https://www.tinkercad.com/things/eXlzChPjezF-smart-band/editel?sharecode=s9GQbLiRNW2ZCik-BF-uZNu74g3pXfTsdho4Yye3IZ0
+https://www.tinkercad.com/things/eXlzChPjezF-smart-band/editel?sharecode=gLpB3ktnLBgHogp4gWGpvVberyHjsHdNaQBFa05I6mk
 
 ### Antonio Calabrese -> Weather station
 https://www.tinkercad.com/things/gV2DpZ1ImI0-stazione-meteo/editel?sharecode=1TS_6c5swUoLISRIGiy__mjDz6T6z03N79VGlhOuXos
